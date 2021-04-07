@@ -21,3 +21,7 @@ ipython_config.py
 *.iml
 out
 gen
+
+.metals
+.vscode
+null
